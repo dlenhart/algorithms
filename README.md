@@ -1,2 +1,2 @@
 # algorithms
-Ruby implementations of common algorithms.
+Python implementations of common algorithms.
